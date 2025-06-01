@@ -11,7 +11,9 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.8",
+    "lodash": "^4.17.21",
     "lucide-react": "^0.511.0",
+    "papaparse": "^5.5.3",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "rechart": "^0.0.1",
